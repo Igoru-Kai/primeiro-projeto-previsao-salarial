@@ -33,5 +33,5 @@ O gráfico demonstra a relação entre a experiência e o salário, com a linha 
 O modelo foi avaliado comparando o **Salário Real** vs **Previsão do Modelo**. Criei uma coluna de **Acerto (%)** que automatiza a percepção de erro, onde tons mais escuros de azul indicam uma precisão próxima a 100%.
 
 ---
-**Desenvolvido por Igor Vinicius** 
+**Desenvolvido por Igor Vinicius** -
 *Estudante de Ciência de Dados focado em transformar dados em decisões.*
